@@ -1,6 +1,6 @@
 # Nertivia Client
 
-Check out nertivia at https://nertivia.net
+Check out nertivia at https://nertivia.com
 
 # Development
 
